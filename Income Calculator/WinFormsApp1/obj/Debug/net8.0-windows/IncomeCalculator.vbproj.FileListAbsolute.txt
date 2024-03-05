@@ -1,0 +1,6 @@
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.MainFrm.resources
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.vbproj.GenerateResource.cache
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.AssemblyInfoInputs.cache
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.AssemblyInfo.vb
+F:\Computer Science\Languages\Visual Basic\Income Calculator\WinFormsApp1\obj\Debug\net8.0-windows\IncomeCalculator.vbproj.CoreCompileInputs.cache
